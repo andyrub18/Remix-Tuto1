@@ -36,4 +36,5 @@ Make sure to deploy the output of `remix build`
 
 - `build/`
 - `public/build/`
+
 Remix V2 tutorial for future reference
